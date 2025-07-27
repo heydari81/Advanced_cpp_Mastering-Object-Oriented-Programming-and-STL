@@ -1,5 +1,5 @@
 <h1 align="center">
-<strong>AUT_AP_2024_Spring Homework 4</strong>
+<strong>Mastering Object-Oriented Programming and STL</strong>
 </h1>
 
 <p align="center">
