@@ -2,12 +2,6 @@
 <strong>Mastering Object-Oriented Programming and STL</strong>
 </h1>
 
-<p align="center">
-<strong> Deadline: 4th of Khordad - 23:59 o'clock</strong>
-</p>
-
-# Mastering Object-Oriented Programming and STL
-
 ## Overview
 
 This homework is structured to deepen your understanding and mastery of modern C++ programming through hands-on application of advanced concepts. It is divided into two main parts, each focusing on crucial aspects of C++ development: object-oriented programming (OOP) and the Standard Template Library (STL).
